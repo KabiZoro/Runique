@@ -1,0 +1,31 @@
+# Gradle & Build
+.gradle/
+build/
+/*/build/
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+/out/
+
+# Local configuration (SDK paths, API keys)
+local.properties
+secrets.properties
+
+# Signing files (NEVER commit these)
+*.jks
+*.keystore
+*.p12
+
+# Google Services
+google-services.json
+
+# Android Studio captures & Native Build
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS specific
+.DS_Store
+Thumbs.db

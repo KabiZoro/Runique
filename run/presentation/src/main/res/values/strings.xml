@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="run_map">Run map</string>
+    <string name="error_coudnt_load_image">Couldn\'t load image.</string>
+    <string name="total_running_time">Total running time</string>
+    <string name="delete">Delete</string>
+</resources>
