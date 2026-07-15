@@ -13,4 +13,6 @@ dependencies {
     implementation(projects.analytics.domain)
     implementation(projects.analytics.data)
     implementation(projects.core.database)
+
+    testImplementation(libs.junit)
 }
